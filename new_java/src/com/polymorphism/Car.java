@@ -13,6 +13,6 @@ public Car(String colour,String name)
 	}
 void move()
 {
-	System.out.println("The"+colour+" colour car is Moving!!!!!");
+	System.out.println("The "+colour+" colour car is Moving!!!!!");
 }
 }
